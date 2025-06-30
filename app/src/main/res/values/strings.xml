@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PDFReader_20221cse0007</string>
+    <string-array name="pdf_file_names">
+        <item>demo.pdf</item>
+        <item>IPRCode_pdf1.pdf</item>
+        <item>report_pdf2.pdf</item>
+        <item>fda_pdf4.pdf</item>
+        <item>C#_Pdf3.pdf</item>
+    </string-array>
+</resources>
